@@ -7,7 +7,7 @@
     "build": "ng build --base-href ./",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "deploy": "gh-pages -d dist/lab-angular/browser"
+    "deploy": "gh-pages -d dist/lab_angular/browser"
   },
   "prettier": {
     "printWidth": 100,
